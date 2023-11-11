@@ -33,6 +33,7 @@ module.exports = {
             { text: '项目实战', link: '/pages/0eddfa/' },
             { text: '学习笔记', link: '/pages/66d7bb/' },
             { text: '知识学习', link: '/pages/cc712e/' },
+            { text: '运维', link: '/pages/c4baed/' },
             { text: 'dir', link: '/pages/341814/' },
             { text: '极客时间', link: 'https://geektime.pages.dev' },
 
