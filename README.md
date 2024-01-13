@@ -1,2 +1,2 @@
 # notes
-演示地址：[https://notes-4fe.pages.dev/](https://notes-4fe.pages.dev/)
+演示地址：[https://red-notes.com/](https://red-notes.com/)

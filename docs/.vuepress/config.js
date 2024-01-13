@@ -32,15 +32,14 @@ module.exports = {
             { text: '系统设计', link: '/pages/afc736/' },
             { text: '项目实战', link: '/pages/0eddfa/' },
             { text: '学习笔记', link: '/pages/66d7bb/' },
-            { text: '知识学习', link: '/pages/cc712e/' },
-            { text: '运维', link: '/pages/c4baed/' },
-            { text: 'dir', link: '/pages/341814/' },
-            { text: '极客时间', link: 'https://geektime.pages.dev' },
-
+            // { text: '知识学习', link: '/pages/cc712e/' },
+            { text: '运维', link: '/pages/396af4/' },
+            { text: '其他', link: '/pages/341814/' },
+            { text: '极客时间', link: 'https://geektime.red-notes.com' },
         ],
         sidebarDepth: 2, // 侧边栏显示深度，默认1，最大2（显示到h3标题）
         logo: '/img/logo.png', // 导航栏logo
-        repo: 'starriesWEB/notes', // 导航栏右侧生成Github链接
+        repo: 'starriesWEB', // 导航栏右侧生成Github链接
         searchMaxSuggestions: 10, // 搜索结果显示最大数
         lastUpdated: '上次更新', // 更新的时间，及前缀文字   string | boolean (取值为git提交时间)
 
