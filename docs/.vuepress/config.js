@@ -11,9 +11,10 @@ module.exports = {
     description: '知识管理',
     head: [ // 注入到页面<head> 中的标签，格式[tagName, { attrName: attrValue }, innerHTML?]
         ['link', { rel: 'icon', href: '/img/favicon.ico' }], //favicons，资源放在public文件夹
-        ['meta', { name: 'keywords', content: 'vuepress,theme,blog,vdoing' }],
+        ['meta', { name: 'keywords', content: 'blog,minio,IM,即时通讯,极客时间' }],
         ['meta', { name: 'theme-color', content: '#3eaf7c' }], // 移动浏览器主题颜色
         ['meta', { name: 'referrer', content: 'no-referrer' }],
+        ['meta', { name: 'baidu-site-verification', content: 'codeva-mruAbrZvcQ'}]
     ],
 
     // 主题配置
