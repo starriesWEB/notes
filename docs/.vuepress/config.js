@@ -33,9 +33,10 @@ module.exports = {
             { text: '系统设计', link: '/pages/afc736/' },
             { text: '项目实战', link: '/pages/0eddfa/' },
             { text: '学习笔记', link: '/pages/66d7bb/' },
+            { text: '源码', link: '/pages/e2dcd7/' },
             // { text: '知识学习', link: '/pages/cc712e/' },
             { text: '运维', link: '/pages/396af4/' },
-            { text: '其他', link: '/pages/341814/' },
+            { text: '其它', link: '/pages/341814/' },
             { text: '极客时间', link: 'https://geektime.red-notes.com' },
         ],
         sidebarDepth: 2, // 侧边栏显示深度，默认1，最大2（显示到h3标题）
